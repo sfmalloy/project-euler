@@ -1,8 +1,9 @@
-def get_n(m):
-	return (500 - m**2) / m
-
-m = 2
-while m < get_n(m) and get_n(m) != 0:
-	print(m, get_n(m))
-	m += 1
-print(m, get_n(m))
+a = b = c = 0
+for m in range(22,0,-1):
+	n = (500/m) - m
+	if n % 1 == 0:
+		a = m**2 - n**2
+		b = 2*m*n
+		c = m**2 + n**2
+		print(int(a*b*c))
+		break
