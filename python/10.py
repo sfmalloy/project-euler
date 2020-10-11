@@ -1,3 +1,6 @@
+# Summation of primes
+# Project Euler - Problem 10
+# Sean Malloy
 upper = 2000000
 is_prime = [True for i in range(upper + 1)]
 is_prime[0] = is_prime[1] = False

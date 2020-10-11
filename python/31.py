@@ -1,3 +1,6 @@
+# Coin sums
+# Project Euler - Problem 31
+# Sean Malloy
 s = 1
 goal = 201
 for pence in range(0, goal):

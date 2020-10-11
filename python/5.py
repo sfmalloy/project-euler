@@ -1,3 +1,7 @@
+# Smallest multiple
+# Project Euler - Problem 5
+# Sean Malloy
+
 found = False
 n = 20
 while not found:

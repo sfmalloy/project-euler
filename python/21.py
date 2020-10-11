@@ -1,3 +1,6 @@
+# Amicable numbers
+# Project Euler - Problem 21
+# Sean Malloy
 from math import sqrt
 
 def d(n):

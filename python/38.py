@@ -1,3 +1,6 @@
+# Pandigital muiltiples
+# Project Euler - Problem 38
+# Sean Malloy
 from itertools import permutations
 
 perms = set(permutations('987654321', 9))

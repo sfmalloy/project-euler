@@ -1,3 +1,6 @@
+# Special Pythagorean triplet 
+# Project Euler - Problem 9
+# Sean Malloy
 a = b = c = 0
 for m in range(22,0,-1):
 	n = (500/m) - m

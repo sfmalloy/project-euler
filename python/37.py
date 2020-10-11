@@ -1,3 +1,6 @@
+# Truncatable primes
+# Project Euler - Problem 37
+# Sean Malloy
 LIMIT = 1000000
 primes = [True for _ in range(LIMIT)]
 primes[0] = primes[1] = False

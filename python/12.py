@@ -1,3 +1,6 @@
+# Highly divisible triangular number
+# Project Euler - Problem 12
+# Sean Malloy
 from math import sqrt
 def div_count(num):
   count = 0

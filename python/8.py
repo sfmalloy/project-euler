@@ -1,3 +1,6 @@
+# Largest product in a series
+# Project Euler - Problem 8
+# Sean Malloy
 from functools import reduce
 
 LIMIT				= 13

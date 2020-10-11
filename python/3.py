@@ -1,3 +1,7 @@
+# Largest prime factor 
+# Project Euler - Problem 3
+# Sean Malloy
+
 N = int(input())
 factor = 2
 while N > 1:

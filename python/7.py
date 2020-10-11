@@ -1,3 +1,6 @@
+# 10001st prime 
+# Project Euler - Problem 7 
+# Sean Malloy
 from math import sqrt
 
 def is_prime(n):

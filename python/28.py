@@ -1,3 +1,6 @@
+# Quadratic primes
+# Project Euler - Problem 28
+# Sean Malloy
 from math import sqrt, ceil
 def f(n):
 	return 4*(n**2) + n + 1

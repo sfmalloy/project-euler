@@ -1,3 +1,6 @@
+# Digit cancelling fractions
+# Project Euler - Problem 33
+# Sean Malloy
 def digit_cancel(a, b):
 	str_a = str(a)
 	str_b = str(b)

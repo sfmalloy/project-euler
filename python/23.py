@@ -1,3 +1,6 @@
+# Non-abundant sums
+# Project Euler - Problem 23
+# Sean Malloy
 from math import sqrt
 
 def d(n):

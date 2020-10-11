@@ -1,3 +1,6 @@
+# Pandigital products
+# Project Euler - Problem 32
+# Sean Malloy
 from itertools import permutations
 
 found = set()

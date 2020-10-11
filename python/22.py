@@ -1,3 +1,6 @@
+# Names scores
+# Project Euler - Problem 22 
+# Sean Malloy
 def alpha_val(name):
 	score = 0
 	for c in name:

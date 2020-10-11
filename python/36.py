@@ -1,3 +1,6 @@
+# Double-base palindromes
+# Project Euler - Problem 36 
+# Sean Malloy
 def is_pal(n):
 	s = str(n).split('b')[-1]
 	b = len(s) - 1

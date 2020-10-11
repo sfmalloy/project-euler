@@ -1,3 +1,6 @@
+# Maximum path sum I
+# Project Euler - Problem 18
+# Sean Malloy
 class node:
 	def __init__(self, val, left=-1, right=-1):
 		self.val = val

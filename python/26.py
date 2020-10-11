@@ -1,3 +1,6 @@
+# Reciprocal cycles
+# Project Euler - Problem 26
+# Sean Malloy
 from decimal import Decimal, getcontext
 
 getcontext().prec = 100000

@@ -1,3 +1,6 @@
+# Integer right triangles
+# Project Euler - Problem 39
+# Sean Malloy
 p = 1000
 num_triples = {i:0 for i in range(3, p+1)}
 

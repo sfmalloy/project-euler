@@ -1,3 +1,7 @@
+# Largest palindrome product
+# Project Euler - Problem 4 
+# Sean Malloy
+
 # This way is more fun than converting to a string
 def is_palindrome(n):
 	n_copy = n

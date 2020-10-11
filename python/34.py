@@ -1,3 +1,6 @@
+# Digit factorials
+# Project Euler - Problem 34 
+# Sean Malloy
 def memoize(func):
 	memo = {}
 	def helper(n):

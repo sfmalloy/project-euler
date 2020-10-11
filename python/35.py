@@ -1,3 +1,6 @@
+# Circular primes
+# Project Euler - Problem 35
+# Sean Malloy
 LIMIT = 1000000
 primes = [True for _ in range(LIMIT)]
 primes[0] = primes[1] = False

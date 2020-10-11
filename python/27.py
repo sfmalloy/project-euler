@@ -1,3 +1,6 @@
+# Quadratic primes
+# Project Euler - Problem 27
+# Sean Malloy
 from math import sqrt
 
 def memoize(func):

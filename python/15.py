@@ -1,3 +1,6 @@
+# Lattice paths
+# Project Euler - Problem 15
+# Sean Malloy
 MAX_X = MAX_Y = 20
 
 def memoize(func):

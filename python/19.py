@@ -1,3 +1,6 @@
+# Counting Sundays
+# Project Euler - Problem 19
+# Sean Malloy
 from datetime import date
 
 begin_year = 1901

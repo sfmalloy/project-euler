@@ -1,3 +1,6 @@
+# Longest Collatz sequence
+# Project Euler - Problem 14
+# Sean Malloy
 counts = {}
 
 def collatz(n):
