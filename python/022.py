@@ -7,7 +7,7 @@ def alpha_val(name):
 		score += ord(c) - 64
 	return score
 
-with open('22.txt', 'r') as readfile:
+with open('022.txt', 'r') as readfile:
 	names = sorted([name.strip('\"') for name in readfile.readline().split(',')])
 
 total = 0

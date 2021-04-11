@@ -12,7 +12,7 @@ def alpha_val(word):
 def is_triangle(T):
 	return ((1 + sqrt(1 + 8*T)) / 2) % 1 == 0
 
-with open('42.txt', 'r') as readfile:
+with open('042.txt', 'r') as readfile:
 	words = [w.strip('\"') for w in readfile.readline().split(',')]
 
 count = 0

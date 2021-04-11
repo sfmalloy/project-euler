@@ -17,7 +17,7 @@ def largest_sum(tree, node):
 		return node.val + max(largest_sum(tree, tree[left]), largest_sum(tree, tree[right]))
 	return node.val
 
-with open('18.txt', 'rU') as readfile:
+with open('018.txt', 'r') as readfile:
 	nums = []
 	lines = readfile.readlines()
 	height = len(lines)

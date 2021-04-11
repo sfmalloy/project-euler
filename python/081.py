@@ -3,7 +3,7 @@
 # Sean Malloy
 rows = cols = 80
 
-with open('81.txt', 'r') as readfile:
+with open('081.txt', 'r') as readfile:
 	matrix = []
 	for r in readfile.readlines():
 		row = list(map(int, r.split(',')))

@@ -1,7 +1,7 @@
 # Largest product in a grid
 # Project Euler - Problem 11
 # Sean Malloy
-with open('11.txt', 'r') as readfile:
+with open('011.txt', 'r') as readfile:
   lines = [list(map(int, line.split())) for line in readfile.readlines()]
 
 PROD_LENGTH = 4

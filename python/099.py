@@ -3,7 +3,7 @@
 # Sean Malloy
 from math import log2
 
-with open('99.txt', 'r') as readfile:
+with open('099.txt', 'r') as readfile:
 	pairs = [p.rstrip() for p in readfile.readlines()]
 
 max_val = 0
